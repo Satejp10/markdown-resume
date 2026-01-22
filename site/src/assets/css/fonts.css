@@ -197,3 +197,11 @@
   font-weight: bold;
   src: url("~/assets/fonts/hkst/w9.ttf") format("opentype");
 }
+
+@font-face {
+  font-family: "Varela Round";
+  font-style: normal;
+  font-weight: normal;
+  src: url("~/assets/fonts/varela-round/regular.ttf") format("opentype");
+}
+

@@ -43,6 +43,9 @@ export const EN_FONTS: Font[] = [
   {
     name: "Verdana"
   },
+  {
+    name: "Varela Round"
+  },
   /*
   {
     name: "Adobe Garamond Pro"
